@@ -1,13 +1,12 @@
 # TodoMVC built with Vue 3 Composition Api and Vuex
 
 [![Build Status](https://travis-ci.com/blacksonic/todomvc-vue-composition-api.svg?branch=master)](https://travis-ci.com/blacksonic/todomvc-vue-composition-api)
-[![Dependencies Status](https://david-dm.org/blacksonic/todomvc-vue-composition-api/status.svg)](https://david-dm.org/blacksonic/todomvc-vue-composition-api)
 
 The well-known TodoMVC built with Vue 3 Composition Api and Vuex in a structured and testable way.
 
 ![TodoMVC Vue](./images/screenshot.png "TodoMVC Vue")
 
-[Edit and try it out online](https://codesandbox.io/s/github/blacksonic/todomvc-vue-composition-api)
+This is an open-source project forked from [blacksonic's example](https://codesandbox.io/s/github/blacksonic/todomvc-vue-composition-api).
 
 ## Concepts and tools covered
 
@@ -35,13 +34,23 @@ After installing the dependencies the following NPM scripts become available:
 
 Application is compatible with [Vue devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
 
-## Series
+## What we're looking for
 
-This implementation is part of a series where the same application was implemented with the same architecture.
+We don't expect you to know everything about this codebase, so please don't sweat it! If you happen to know it all, awesome. If not, that's cool, too. We welcome all levels of experience. What we're looking for is a _conversation_ with you about the code.
 
-- [Vue](https://github.com/blacksonic/todomvc-vue)
-- [Vue Composition API](https://github.com/blacksonic/todomvc-vue-composition-api)
-- [Angular](https://github.com/blacksonic/todomvc-angular)
-- [React](https://github.com/blacksonic/todomvc-react)
-- [React Hooks](https://github.com/blacksonic/todomvc-react-hooks)
-- [Svelte](https://github.com/blacksonic/todomvc-svelte)
+What does that entail? It could be anything you'd like to talk about! You steer the conversation and let us know what your thoughts are. We'll ask you questions to understand what your thought process is. If you're really stuck, here are some things that we could discuss:
+
+- Explain how a component works
+- Explain how the store works
+- Walk us through a unit test
+- Talk about how the architecture is set up
+- Discuss the state of accessibility in the app
+- Discuss the style in the application
+- What could you do to add or improve this app?
+- Anything else that comes to mind!
+
+Let's talk through as much of it as you'd like and are comfortable with. It's just a conversation to gauge where you're at and see how you approach problems. No gotcha's, nothing tricky.
+
+Feel free to get the repo running locally if you'd like. Walking through the files is fine, too.
+
+Good luck, and talk to you soon!
